@@ -6,8 +6,8 @@ Created on Wed Feb  2 17:27:33 2022
 """
 ## using slicing
 """
-num = 1
-print(int(num)[::-1])
+num = 1231689
+print(str(num)[::-1])
 """
 ## Using while loop
 num = int(input("Enter the Number: "))
