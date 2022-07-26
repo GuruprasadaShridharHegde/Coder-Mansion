@@ -1,5 +1,5 @@
 
-# Coder-Mansion 🏡🏰
+# Coder-Mansion 🏡🏰🌍
 
 ### C/C++/Java/Python
 
@@ -23,8 +23,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 #### I believe passion is not about doing something big, passion is doing small things with 100 %.
 
 
-## Tech Stack✨
-
+## Tech Stacks
 **Client:** VS code 
 
 **Server:** Python.org
