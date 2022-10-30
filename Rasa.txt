@@ -1,0 +1,5 @@
+mkdir chatbot
+cd chatbot
+virtualenv venv
+venv\Scripts\activate
+pip3 install rasa-x --extra-index-url https://pypi.rasa.com/simple
