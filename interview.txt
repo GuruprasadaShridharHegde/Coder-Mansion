@@ -1,0 +1,2 @@
+1. https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/   --> This is for DSA commonly asked.
+2. Grokking Modern System Design for Software Engineers & Managers on Educative   ---> This is for system design interview.
