@@ -35,10 +35,10 @@ def default():
 var = (int(input("enter the value:  ")))
 start = datetime.datetime.now()
 
-funcs: dict = {0:first,
+dict = {0:first,
                1:second,
                2:third}
-final = funcs.get(var, default)
+final = dict.get(var, default)
 final()
 '''
 if var == 0:
