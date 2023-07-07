@@ -32,7 +32,7 @@ def third():
 def default():
     print("Calling default")
 
-var = (int(input("enter the value:  ")))
+var = (int(input("enter the value: ")))
 start = datetime.datetime.now()
 
 dict = {0:first,
